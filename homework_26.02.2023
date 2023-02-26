@@ -1,0 +1,11 @@
+   0 ps -ef
+   1 vi /temp/file.txt
+   2 ls -l
+   3 chmod g+rwx readme.txt
+   4 ls -l
+   5 chmod u-r readme.txt
+   6 ls -l
+   7 chmod a+x readme.txt
+   8 ls -l
+   9 history
+  10 history > homework_26.02.2023
